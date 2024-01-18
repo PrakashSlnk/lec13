@@ -1,0 +1,25 @@
+.title{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box{
+    border: none;
+    background-color: mediumspringgreen;
+    width: 450px;
+    padding: 80px 55px;
+    margin: 50px auto;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn{
+    width: 50%;
+    box-sizing: border-box;
+    padding: 15px 35px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    border: none;
+    border-radius: 70px;
+}
